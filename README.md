@@ -3,8 +3,8 @@
 ## Estudiante: _Luciana Merlino_
 
 Hola, escribo esto para aprender a escribir esto. 
-Espero que todes tengamos una gran cursada. 
-¡Éxitos!
+-Espero que todes tengamos una gran cursada. 
+-¡Éxitos!
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
