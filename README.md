@@ -2,8 +2,15 @@
 
 ## Estudiante: _Luciana Merlino_
 
-Hola, escribo esto para aprender a escribir esto. 
-Espero que todes tengamos una gran cursada. 
+*Hola, mucho gusto soy Luciana Merlino, tengo 29 años soy profe de matemáticas de nivel secuandario y esta es mi primera vez escribiendo en SM.*
+
+
+**Actualmente estoy cursando Programación Orientada a Objetos I y Redes de Computadoras.**
+
+
+***Espero que todes tengamos una gran cursada. ***
+
+
 ¡Éxitos!
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
